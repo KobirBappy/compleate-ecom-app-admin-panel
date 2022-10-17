@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757724996815",
+    "project_id": "compleate-ecom",
+    "storage_bucket": "compleate-ecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757724996815:android:23f696c8eb33a60ce183ba",
+        "android_client_info": {
+          "package_name": "com.kobirbappy.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757724996815-m6r1gsjh9f3k5vl79fqj0ve7v9qo0j6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kobirbappy.ecommerceapp",
+            "certificate_hash": "04acb1c86ef5156abddb058b94e28950e4501904"
+          }
+        },
+        {
+          "client_id": "757724996815-2la1bvl1omh7rkr5e6jj6bcrv311utc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfDPE4aUTYlSX2V3RkF-w9zLt-6ixe93w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757724996815-2la1bvl1omh7rkr5e6jj6bcrv311utc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
